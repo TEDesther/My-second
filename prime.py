@@ -1,0 +1,1 @@
+#i am about to code a prime checker function
